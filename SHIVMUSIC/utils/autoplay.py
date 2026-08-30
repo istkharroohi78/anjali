@@ -183,9 +183,8 @@ async def fetch_autoplay_track(chat_id: int, seed_title: str, seed_vidid: str = 
     return random.choice(candidates)
 
 # ===========================================================
-# ©️ 2025-26 All Rights Reserved by Purvi Bots (Im-Notcoder) 😎
+# ©️ 2026-27 All Rights Reserved by Beta Bots  😎
 #
-# 🧑‍💻 Developer : t.me/TheSigmaCoder
-# 🔗 Source link : GitHub.com/Im-Notcoder/Shivi-V2
-# 📢 Telegram channel : t.me/Purvi_Bots
+# 🧑‍💻 Developer : t.me/SUKOON_s
+# 📢 Telegram channel : t.me/BETABOT_HUB
 # ===========================================================
